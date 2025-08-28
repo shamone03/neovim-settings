@@ -4,6 +4,7 @@ return {
     picker = {
       sources = {
         explorer = {
+          auto_hide = false,
           layout = { layout = { position = "right" } },
         },
       },
